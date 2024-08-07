@@ -1,6 +1,5 @@
 # **Paper list for Embodied AI**
 [BUCT_IUSRC](https://github.com/BUCT-IUSRC)
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/38931856/1722908894714-75df6bd8-c415-4f9a-81a6-c727e1708884.png#averageHue=%23868f8c&clientId=ufb85526b-74b8-4&from=paste&height=215&id=u8c450855&originHeight=691&originWidth=752&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=777854&status=done&style=none&taskId=uffbe946d-46b0-4825-aa2d-83c0b480367&title=&width=233.60000610351562)
 #### We appreciate any useful suggestions for improvement of this paper list or survey from peers. Please raise issues or send an email to tianyu.shen@buct.edu.cn. Thanks for your cooperation!
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38931856/1722944009414-628849b1-20f7-4036-a8e8-f82bd6818040.png#averageHue=%23f7f6f5&clientId=u4b45373f-e541-4&from=paste&height=198&id=u9aa8f1c9&originHeight=247&originWidth=1670&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=55186&status=done&style=none&taskId=udae2de75-ae51-49a1-8849-70e27dcb386&title=&width=1336)
 ## 🏠 About
