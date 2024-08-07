@@ -11,7 +11,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 ## 📚 Table of Contents
 
 - [Surveys & Perspectives](#09d43f29)
-- [具身感知与执行](#embodied-simulators)
+- [具身感知与执行](#IrxFd)
 - [具身学习与进化](#S5ths)
 - [多智能体协同](#TgZgy)
 - [具身智能系统](#ST3dn)
@@ -30,34 +30,36 @@ robot systems in terms of perception and understanding, control and decision-mak
 具身感知与执行：环境与任务感知（多模态融合；领域自适应；风险预测）；行为规划与控制（轨迹规划；运动控制）；具身模拟与AIGC（6.1+3.3.2部分）
 
 ### 环境与任务感知
-:[2,18-37]
+:[2]
+[18-37]
 ### 行为规划与控制
-:[45-68]
+[45-68]
 ### 具身模拟与AIGC
-:[38-44][145-159]
+[38-44]
+[145-159]
 ## 具身学习与进化 [🔝](#fa702519)
-具身学习与进化：基础模型（大模型相关论文，引言、6.2等）；增量学习；强化学习
-
 ### 基础模型
-:[6][9][111][160-162]
+[6]
+[9]
+[111]
+[160-162]
 ### 增量学习
-:[70-86]
+[70-86]
 ### 强化学习
-:[13,87-100]
+[13]
+[87-100]
 ## 多智能体协同 [🔝](#fa702519)
 多智能体协同（4.4部分）
 [101-109]
 ## 具身智能系统 [🔝](#fa702519)
-具身智能系统：移动机器人；仿生机器人；平行机器人；特种机器人（放个标题 先写一句coming soon. 后续补充）
-
 ### 移动机器人
-:[110,113-122]
+[110,113-122]
 ### 仿生机器人
-:[123-141]
+[123-141]
 ### 平行机器人
-:[142-144]
+[142-144]
 ### 特种机器人
-: coming soon
+ coming soon
 ## 📰 Citation
 Submission in progress
 ## 👏 Acknowledgements
