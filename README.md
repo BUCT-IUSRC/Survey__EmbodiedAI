@@ -8,7 +8,7 @@ starts from the key problems involved in the research and application of embodie
 robot systems in terms of perception and understanding, control and decision-making, interaction and learning. Finally, the prospects of embodied intelligence is discussed, considering the importance and potential of virtual-real fusion data intelligence, foundation intelligence, and parallel intelligence. This paper is expected to provide new inspiration and ideas for scholars and practitioners in related fields.
 ## 📚 Table of Contents
 
-- [Surveys & Perspectives](#09d43f29)
+- [Surveys & Perspectives](#surveys--perspectives)
 - [具身感知与执行](#IrxFd)
 - [具身学习与进化](#S5ths)
 - [多智能体协同](#TgZgy)
