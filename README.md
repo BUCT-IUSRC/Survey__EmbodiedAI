@@ -13,14 +13,14 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [具身学习与进化](#S5ths)
 - [多智能体协同](#TgZgy)
 - [具身智能系统](#ST3dn)
-## Surveys & Perspectives[🔝](#fa702519)
+## Surveys & Perspectives[🔝](#-table-of-contents)
 - [2]
 - [5]
 - [6]
 - [7]**Em-bodied intelligent driving: Concepts, methods, the state of the art and beyond. Chinese Journal of Intelligent Science and Technology**, 2024, 6(1): 17-32.Shen Tian-Yu, Li Zhi-Wei, Fan Li-Li, Zhang Ting-Zhen, Tang Dan-Dan, Zhou Mei-Hua, Liu Hua-Ping, Wang Kun-Feng.[[page]](https://www.infocomm-journal.com/znkx/EN/10.11959/j.issn.2096-6652.202404)
 - [10-13]
 - [69]
-## 具身感知与执行[🔝](#fa702519)
+## 具身感知与执行[🔝](#-table-of-contents)
 具身感知与执行：环境与任务感知（多模态融合；领域自适应；风险预测）；行为规划与控制（轨迹规划；运动控制）；具身模拟与AIGC（6.1+3.3.2部分）
 
 ### 环境与任务感知
@@ -31,7 +31,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 ### 具身模拟与AIGC
 [38-44]  
 [145-159]
-## 具身学习与进化 [🔝](#fa702519)
+## 具身学习与进化 [🔝](#-table-of-contents)
 ### 基础模型
 [6]  
 [9]  
@@ -42,10 +42,10 @@ robot systems in terms of perception and understanding, control and decision-mak
 ### 强化学习
 [13]  
 [87-100]
-## 多智能体协同 [🔝](#fa702519)
+## 多智能体协同 [🔝](#-table-of-contents)
 多智能体协同（4.4部分）
 [101-109]
-## 具身智能系统 [🔝](#fa702519)
+## 具身智能系统 [🔝](#-table-of-contents)
 ### 移动机器人
 [110]  
 [113-122]
