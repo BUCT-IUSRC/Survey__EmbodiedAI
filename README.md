@@ -9,10 +9,10 @@ robot systems in terms of perception and understanding, control and decision-mak
 ## 📚 Table of Contents
 
 - [Surveys & Perspectives](#surveys--perspectives)
-- [具身感知与执行](#IrxFd)
-- [具身学习与进化](#S5ths)
-- [多智能体协同](#TgZgy)
-- [具身智能系统](#ST3dn)
+- [具身感知与执行](#具身感知与执行)
+- [具身学习与进化](#具身学习与进化)
+- [多智能体协同](#多智能体协同)
+- [具身智能系统](#具身智能系统)
 ## Surveys & Perspectives[🔝](#-table-of-contents)
 - [2]
 - [5]
