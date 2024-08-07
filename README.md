@@ -14,12 +14,10 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [多智能体协同](#TgZgy)
 - [具身智能系统](#ST3dn)
 ## Surveys & Perspectives[🔝](#fa702519)
-
-- [7]**Em-bodied intelligent driving: Concepts, methods, the state of the art and beyond. Chinese Journal of Intelligent Science and Technology**, 2024, 6(1): 17-32.Shen Tian-Yu, Li Zhi-Wei, Fan Li-Li, Zhang Ting-Zhen, Tang Dan-Dan, Zhou Mei-Hua, Liu Hua-Ping, Wang Kun-Feng.[[page]](https://www.infocomm-journal.com/znkx/EN/10.11959/j.issn.2096-6652.202404)
-
 - [2]
 - [5]
 - [6]
+- [7]**Em-bodied intelligent driving: Concepts, methods, the state of the art and beyond. Chinese Journal of Intelligent Science and Technology**, 2024, 6(1): 17-32.Shen Tian-Yu, Li Zhi-Wei, Fan Li-Li, Zhang Ting-Zhen, Tang Dan-Dan, Zhou Mei-Hua, Liu Hua-Ping, Wang Kun-Feng.[[page]](https://www.infocomm-journal.com/znkx/EN/10.11959/j.issn.2096-6652.202404)
 - [10-13]
 - [69]
 ## 具身感知与执行[🔝](#fa702519)
