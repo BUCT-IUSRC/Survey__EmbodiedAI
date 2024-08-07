@@ -1,4 +1,4 @@
-# **Paper list for Embodied AI**
+<center># **Paper list for Embodied AI**</center>
 [BUCT_IUSRC](https://github.com/BUCT-IUSRC)
 #### We appreciate any useful suggestions for improvement of this paper list or survey from peers. Please raise issues or send an email to tianyu.shen@buct.edu.cn. Thanks for your cooperation!
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/38931856/1722944009414-628849b1-20f7-4036-a8e8-f82bd6818040.png#averageHue=%23f7f6f5&clientId=u4b45373f-e541-4&from=paste&height=198&id=u9aa8f1c9&originHeight=247&originWidth=1670&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=55186&status=done&style=none&taskId=udae2de75-ae51-49a1-8849-70e27dcb386&title=&width=1336)
