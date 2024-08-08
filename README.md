@@ -139,7 +139,6 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [86]**Self-sustaining representation expansion for non-exemplar class-incremental learning. **In: Proceeding of the IEEE/CVF Conference on Computer Vision and Pattern Recognition，2022: 9296-9305.Zhu K, Zhai W, Cao Y, et al.
 ### 强化学习
 
-- [13]
 - [87]**An overview of reservoir computing: Theory, applications and implementations.** In: Proceedings of the 15th European Symposium on Artificial Neural Networks, 2007: 471-482.Schrauwen B, Verstraeten D, Van Campenhout J.
 - [88]**The role of feedback in morphological computation with compliant bodies.** Biological Cybernetics, 2012, 106: 595-613.Hauser H, Ijspeert A J, Füchslin R M, et al. 
 - [89]**Design and control of compliant tensegrity robots through simulation and hardware validation**. Journal of the Royal Society Interface, 2014, 11(98): 20140520.Caluwaerts K, Despraz J, Işçen A, et al.
