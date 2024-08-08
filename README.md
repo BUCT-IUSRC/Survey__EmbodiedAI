@@ -1,6 +1,6 @@
 # **Paper list for Embodied AI**
 #### We appreciate any useful suggestions for improvement of this paper list or survey from peers. Please raise issues or send an email to tianyu.shen@buct.edu.cn. Thanks for your cooperation!
-![](https://cdn.nlark.com/yuque/0/2024/png/38931856/1722944009414-628849b1-20f7-4036-a8e8-f82bd6818040.png#averageHue=%23f7f6f5&clientId=u4b45373f-e541-4&from=paste&height=198&id=u9aa8f1c9&originHeight=247&originWidth=1670&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=55186&status=done&style=none&taskId=udae2de75-ae51-49a1-8849-70e27dcb386&title=&width=1336#averageHue=%23f7f6f5&id=vkLsv&originHeight=247&originWidth=1670&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none)
+![](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI/blob/main/1.jpg)
 ## 🏠 About
 Embodied intelligence aims to create intelligent entities that can learn and evolve autonomously based on the interaction between machines and the physical world, by emphasizing the interaction among the brain, body, and
 environment. Currently, the rapid development of multidisciplinary technologies such as machine learning, robotics, and cognitive science has greatly promoted the research and application of embodied intelligence. Existing literature mainly focuses on technical and methodological classifications of embodied intelligence. From a new perspective, this paper
@@ -9,7 +9,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 ## 📚 Table of Contents
 
 - [Surveys & Perspectives](#surveys--perspectives)
-- [具身感知与执行](#具身感知与执行-)  
+- [具身感知与执行](#具身感知与执行)  
  &emsp;[环境与任务感知](#环境与任务感知)  
  [行为规划与控制](#行为规划与控制)  
  [具身模拟与AIGC](#具身模拟与AIGC)   
