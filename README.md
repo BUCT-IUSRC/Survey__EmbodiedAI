@@ -19,7 +19,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 &emsp;[增量学习](#增量学习)  
 &emsp;[强化学习](#强化学习)      
 - [多智能体协同](#多智能体协同-)
-- [具身智能系统](#具身智能系统-)
+- [具身智能系统](#具身智能系统-)  
 &emsp;[移动机器人](#移动机器人)  
 &emsp;[仿生机器人](#仿生机器人)  
 &emsp;[平行机器人](#平行机器人)  
