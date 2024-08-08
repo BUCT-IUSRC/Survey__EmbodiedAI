@@ -1,6 +1,6 @@
 # **Paper list for Embodied AI**
 #### We appreciate any useful suggestions for improvement of this paper list or survey from peers. Please raise issues or send an email to tianyu.shen@buct.edu.cn. Thanks for your cooperation!
-![](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI/blob/main/1.jpg#id=qHUGp&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none)
+![](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI/blob/main/title.jpg)
 ## 🏠 About
 Embodied intelligence aims to create intelligent entities that can learn and evolve autonomously based on the interaction between machines and the physical world, by emphasizing the interaction among the brain, body, and
 environment. Currently, the rapid development of multidisciplinary technologies such as machine learning, robotics, and cognitive science has greatly promoted the research and application of embodied intelligence. Existing literature mainly focuses on technical and methodological classifications of embodied intelligence. From a new perspective, this paper
