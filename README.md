@@ -10,7 +10,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 
 - [Surveys & Perspectives](#surveys--perspectives)
 - [具身感知与执行](#具身感知与执行-)  
-  [环境与任务感知](#环境与任务感知)  
+ [环境与任务感知](#环境与任务感知)  
  [行为规划与控制](#行为规划与控制)  
  [具身模拟与AIGC](#具身模拟与AIGC)   
 - [具身学习与进化](#具身学习与进化-)  
@@ -18,7 +18,7 @@ robot systems in terms of perception and understanding, control and decision-mak
  [增量学习](#增量学习)  
  [强化学习](#强化学习)    
 - [多智能体协同](#多智能体协同-)
-- [具身智能系统](#具身智能系统-)
+- [具身智能系统](#具身智能系统-)  
  [移动机器人](#移动机器人)  
  [仿生机器人](#仿生机器人)  
  [平行机器人](#平行机器人)  
