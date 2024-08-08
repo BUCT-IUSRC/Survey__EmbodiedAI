@@ -26,7 +26,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 [特种机器人](#特种机器人)
 ## Surveys & Perspectives[🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
 
-- [2]**Embodied intelligence weaves a better future**. Nature Machine Intelligence, 2020, 2(11): 663-664**.**Jin D, Zhang L.[[page]](https://www.nature.com/articles/s42256-020-00250-6)
+- [2]**Embodied intelligence weaves a better future**. Nature Machine Intelligence, 2020, 2(11): 663-664.Jin D, Zhang L.[[page]](https://www.nature.com/articles/s42256-020-00250-6)
 - [5]**Evolving embodied intelligence from materials to machines**. Nature Machine Intelligence, 2019, 1(1): 12-19.Howard D, Eiben A E, Kennedy D F, et al. [[page]](https://www.nature.com/articles/s42256-018-0009-9)
 - [6]**The journey/DAO/TAO of embodied intelligence: From large models to foundation intelligence and parallel intelligence**. IEEE/CAA Journal of Automatica Sinica, 2024, 11(6): 1313-1316.[[page]](https://ieeexplore.ieee.org/abstract/document/10539310/)
 - [7]**Embodied intelligent driving: Concepts, methods, the state of the art and beyond**. Chinese Journal of Intelligent Science and Technology, 2024, 6(1): 17-32.Shen Tian-Yu, Li Zhi-Wei, Fan Li-Li, Zhang Ting-Zhen, Tang Dan-Dan, Zhou Mei-Hua, Liu Hua-Ping, Wang Kun-Feng.[[page]](https://www.infocomm-journal.com/znkx/EN/10.11959/j.issn.2096-6652.202404)
@@ -38,30 +38,30 @@ robot systems in terms of perception and understanding, control and decision-mak
 ## 具身感知与执行[🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
 ### 环境与任务感知
 
-- [2]**Embodied intelligence weaves a better future**.** **Nature Machine Intelligence, 2020, 2(11): 663-664**.**Jin D, Zhang L.[[page]](https://www.nature.com/articles/s42256-020-00250-6)
+- [2]**Embodied intelligence weaves a better future**. Nature Machine Intelligence, 2020, 2(11): 663-664.Jin D, Zhang L.[[page]](https://www.nature.com/articles/s42256-020-00250-6)
 - [18]**Planning-oriented autonomous driving**. In: Proceeding of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023: 17853-17862.Hu Y, Yang J, Chen L, et al.
 - [19]**Multimodal virtual point 3D detection**. Advances in Neural Information Processing Systems, 2021, 34: 16494-16507.Yin T, Zhou X, Krähenbühl P. 
 - [20]**Sparse fuse dense:Towards high quality 3D detection with depth completion**[C]// Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022: 5418-5427.Wu X, Peng L, Yang H, et al.
 - [21]**Virtual sparse convolution for multimodal 3D object detection[C]**// Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023: 21653-21662.Wu H, Wen C, Shi S, et al. 
 - [22]**Bevfusion: Multi-task multi-sensor fusion with unified bird’s-eye view representation**[C]// Proceedings of the IEEE International Conference on Robotics and Automation, 2023: 2774-2781.Liu Z, Tang H, Amini A, et al. 
-- [23]**BEV-CFKT: A LiDAR-camera cross-modality-interaction fusion and knowledge transfer framework with transformer for bev 3D object detection**.** **Neurocomputing, 2024, 582: 127527.Wei M, Li J, Kang H, et al. 
+- [23]**BEV-CFKT: A LiDAR-camera cross-modality-interaction fusion and knowledge transfer framework with transformer for bev 3D object detection**. Neurocomputing, 2024, 582: 127527.Wei M, Li J, Kang H, et al. 
 - [24]**DeepFusion: A robust and modular 3D object detector for LiDARs, cameras and radars**[C]// Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, 2022: 560-567.Drews F, Feng D, Faion F, et al.
 - [25]**AMMF: Attention-based multi-phase multi-task fusion for small contour object 3D detection**. IEEE Transactions on Intelligent Transportation Systems, 2022, 24(2): 1692-1701.Xie B, Yang Z, Yang L, et al. 
 - [26]**Probabilistic 3D multi-modal, multi-object tracking for autonomous driving**. In: Proceeding of the IEEE International Conference on Robotics and Automation, 2021: 14227-14233.Chiu H, Li J, Ambruş R, et al.
-- [27]**ACF-Net: Asymmetric cascade fusion for 3D detection with LiDAR point clouds and images**.** **IEEE Transactions on Intelligent Vehicles (Early Access),2023, 1-12.Tian Y, Zhang X, Wang X, et al.
+- [27]**ACF-Net: Asymmetric cascade fusion for 3D detection with LiDAR point clouds and images**. IEEE Transactions on Intelligent Vehicles (Early Access),2023, 1-12.Tian Y, Zhang X, Wang X, et al.
 - [28]**FusionFormer: A multi-sensory fusion in bird’s-eye-view and temporal consistent transformer for 3D objection**. arXiv preprint arXiv:2309.05257, 2023.Hu C, Zheng H, Li K, et al.
 - [29]**Prototypical pseudo label denoising and target structure learning for domain adaptive semantic segmentation**. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2021, 12414-12424.Zhang P, Zhang B, Zhang T, et al. 
 - [30]**“Dranet: Disentangling representation and adaptation networks for unsupervised cross-domain adaptation**.**”** Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2021, 15252-15261.Lee S, Cho S, Im S.
 - [31]**Unsupervised domain adaptation of object detectors: A survey**[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023.Oza P, Sindagi V A, Sharmini V V, Patel V M.
 - [32]**Domain-adversarial training of neural networks**[J]. Journal of Machine Learning Research, 2016, 17(59): 1-35.Ganin Y, Ustinova E, Ajakan H, et al.
-- [33]**Exploring object relation in mean teacher for cross-domain detection[**C]//IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019: 11457-11466.Cai Q, Pan Y, Ngo C W, Tian X, et al.
+- [33]**Exploring object relation in mean teacher for cross-domain detection**[C]//IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019: 11457-11466.Cai Q, Pan Y, Ngo C W, Tian X, et al.
 - [34]**Droid: Driver-centric risk object identification**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023, 45(11): 13683-13698.Li C, Chan S H, Chen Y T.
 - [35]**A superposition assessment framework of multi-source traffic risks for mega-events using risk field model and time-series generative adversarial networks**. IEEE Transactions on Intelligent Transportation Systems, 2023, 24(11): 12736-12753.Cheng Z, Lu J, Ding H, et al.
 - [36]**Probabilistic risk metric for highway driving leveraging multi-modal trajectory predictions**. IEEE Transactions on Intelligent Transportation Systems, 2022, 23(10): 19399-19412.Wang X, Alonso M J, Wang M.
-- [37]**A multivariate-based conflict prediction model for a brazilian freeway**.** **Accident Analysis & Prevention, 2017, 98: 295-302.Caleffi F, Anzanello M J, Cybis H B B.
+- [37]**A multivariate-based conflict prediction model for a brazilian freeway**. Accident Analysis & Prevention, 2017, 98: 295-302.Caleffi F, Anzanello M J, Cybis H B B.
 ### 行为规划与控制
 
-- [45]**A formal basis for the heuristic determination of minimum cost paths**.** **IEEE Transactions on Systems Science and Cybernetics, 1968, 4(2): 100-107.Hart P E, Nilsson N J, Raphael B.
+- [45]**A formal basis for the heuristic determination of minimum cost paths**. IEEE Transactions on Systems Science and Cybernetics, 1968, 4(2): 100-107.Hart P E, Nilsson N J, Raphael B.
 - [46]**Sampling-based algorithms for optimal motion planning**. The International Journal of Robotics Research, 2011, 30(7): 846-894.Karaman S, Frazzoli E. 
 - [47]**D* lite**.In: Proceeding of the Eighteenth National Conference on Artificial Intelligence，2002: 476-483.Koenig S, Likhachev M.
 - [48]**Adaptation in natural and artificial systems: An introductory analysis with applications to biology**, control, and artificial intelligence. MIT press, 1992.Holland J H.
@@ -70,12 +70,12 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [51]**Kinodynamic RRT*: Asymptotically optimal motion planning for robots with linear dynamics**. In: Proceeding of the 2013 IEEE international conference on robotics and automation, 2013: 5054-5061.Webb D J, Van Den Berg J.
 - [52]**On Actor-Critic Algorithms. Society for Industrial and Applied Mathematics**, 2003.Konda V R, Tsitsiklis J N.
 - [53]**Technical Note: Q-Learning**, 1992.Watkins C J C H. P.
-- [54]**PILCO: A Model-based and data-efficient approach to policy search**.** **In: Proceeding of the 28th International Conference on Machine Learning, 2011.Deisenroth M P, Rasmussen C E.
+- [54]**PILCO: A Model-based and data-efficient approach to policy search**.In: Proceeding of the 28th International Conference on Machine Learning, 2011.Deisenroth M P, Rasmussen C E.
 - [55]**Generative adversarial lmitation learning**. 2016.Ho J, Ermon S.
 - [56]**A review of PID control, tuning methods and applications**. International Journal of Dynamics and Control, 2021, 9: 818-827.Borase R P, Maghade D K, Sondkar S Y, et al.
 - [57]**On the role of regularization in direct data-driven LQR control**. 2022 IEEE 61st Conference on Decision and Control (CDC). IEEE, 2022: 1091-1098.Dörfler F, Tesi P, De Persis C. 
-- [58]**Robust data-driven state-feedback design**.** 2020 American Control Conference (ACC).** IEEE, 2020: 1532-1538.Berberich J, Koch A, Scherer C W, et al.
-- [59]**Safe and fast tracking on a robot manipulator: Robust mpc and neural network control**.** **IEEE Robotics and Automation Letters, 2020, 5(2): 3050- 3057.Nubert J, Köhler J, Berenz V, et al. 
+- [58]**Robust data-driven state-feedback design**.** 2020 American Control Conference (ACC)**. IEEE, 2020: 1532-1538.Berberich J, Koch A, Scherer C W, et al.
+- [59]**Safe and fast tracking on a robot manipulator: Robust mpc and neural network control**. IEEE Robotics and Automation Letters, 2020, 5(2): 3050- 3057.Nubert J, Köhler J, Berenz V, et al. 
 - [60]**Adaptive neural network control for a class of nonlinear systems with function constraints on states**. IEEE Transactions on Neural Networks and Learning Systems, 2021, 34(6): 2732-2741.Liu Y J, Zhao W, Liu L, et al.
 - [61]**Interval type 2 fuzzy logic control for energy management of hybrid electric autonomous vehicles**. IEEE Transactions on Intelligent Vehicles, 2020, 6(2): 210-220.Phan D, Bab-Hadiashar A, Fayyazi M, et al.
 - [62]**Cooperative co-evolution with differential grouping for large scale optimization**. IEEE Transactions on Evolutionary Computation, 2013, 18(3): 378- 393.Omidvar M N, Li X, Mei Y, et al.
@@ -129,7 +129,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [76]**Class-incremental learning via deep model consolidation**. In: Proceeding of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2020: 1131-1140.Zhang J, Zhang J, Ghosh S, et al.
 - [77]**PODNet: Pooled outputs distillation for small-tasks incremental learning**. In: Proceeding of the European Conference on Computer Vision, 2020: 86-102.Douillard A, Cord M, Ollion C, et al.
 - [78]**类别增量学习研究进展和性能评价**. 自动化学报, 2023, 49(3): 635-660.朱飞, 张煦尧, 刘成林. 
-- [79]**Topology-preserving classincremental learning. **In: Proceeding of the European Conference on Computer Vision, 2020: 254-270.Tao X, Chang X, Hong X, et al. 
+- [79]**Topology-preserving classincremental learning**. In: Proceeding of the European Conference on Computer Vision, 2020: 254-270.Tao X, Chang X, Hong X, et al. 
 - [80]**Small-task incremental learning**. ArXiv abs/2004.13513 (2020): n. pag.Douillard A, Cord M, Ollion C, et al.
 - [81]**Icarl: Incremetal classifier and representation learning**. In: Proceeding of the IEEE Conference on Computer Vision and Pattern Recognition, 2017: 2001-2010.Rebuffi S A, Kolesnikov A, Sperl G, et al.
 - [82]**Generative adversarial networks**. Communications of the ACM, 2020, 63(11): 139-144.Goodfellow I, Pouget-Abadie J, Mirza M, et al. 
@@ -181,7 +181,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 ### 仿生机器人
 
 - [123]**Integrated tracking control of an underwater bionic robot based on multimodal motions**. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023, 54(3): 1599-1610.Wang J, Wu Z, Zhang Y, et al.
-- [124]**NeuroDog: Quadruped embodiment using neural networks**.** **In：Proceedings of the ACM on Computer Graphics and Interactive Techniques, 2023: 1-19.Egan D, Cosker D, McDonnell, R.
+- [124]**NeuroDog: Quadruped embodiment using neural networks**. In：Proceedings of the ACM on Computer Graphics and Interactive Techniques, 2023: 1-19.Egan D, Cosker D, McDonnell, R.
 - [125]**Advancements in humanoid robots: A comprehensive review and future prospects**. IEEE/CAA Journal of Automatica Sinica, 2024, 11(2): 301-328.Tong Y, Liu H, Zhang Z.Tong Y, Liu H, Zhang Z.
 - [126]**Learning agile soccer skills for a bipedal robot with deep reinforcement learning**. Science Robotics, 2024, 9(89): eadi8022.Haarnoja T, Moran B, Lever G, et al. 
 - [127]**Bringing robots home: The rise of AI robots in consumer electronics**. arXiv preprint arXiv:2403.14449, 2024.Dong H, Liu Y, Chu T, Saddik A E. 
@@ -197,7 +197,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [137]**Three-dimensional kinematic modeling of helix-forming lamina-emergent soft smart actuators based on electroactive polymers**. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2017, 47(9): 2562-2573.Mutlu R, Alici G, Li W.
 - [138]**Punyo-1: Soft tactile-sensing upper-body robot for large object manipulation and physical human interaction**. In: Proceedings of the 2022 IEEE 5th International Conference on Soft Robotics, 2022: 844-851.Goncalves A, Kuppuswamy N, Beaulieu A, et al. 
 - [139]**Active entanglement enables stochastic, topological grasping**. Proceedings of the National Academy of Sciences, 2022, 119(42): e2209819119.Becker K, Teeple C, Charles N, et al. 
-- [140]**Octopus-inspired sensorized soft arm for environmental interaction**.** **Science Robotics, 2023, 8(84): eadh7852.
+- [140]**Octopus-inspired sensorized soft arm for environmental interaction**. Science Robotics, 2023, 8(84): eadh7852.
 - [141]**A concise guide to modelling the physics of embodied intelligence in soft robotics**. Nature Reviews Physics, 2022, 4(9): 595-610.Mengaldo G, Renda F, Brunton S L, et al.
 ### 平行机器人
 
