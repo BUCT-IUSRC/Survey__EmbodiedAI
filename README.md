@@ -1,30 +1,30 @@
 # **Paper list for Embodied AI**
 #### We appreciate any useful suggestions for improvement of this paper list or survey from peers. Please raise issues or send an email to tianyu.shen@buct.edu.cn. Thanks for your cooperation!
-![](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI/blob/main/1.jpg)
+![](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI/blob/main/1.jpg#id=qHUGp&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none)
 ## 🏠 About
 Embodied intelligence aims to create intelligent entities that can learn and evolve autonomously based on the interaction between machines and the physical world, by emphasizing the interaction among the brain, body, and
 environment. Currently, the rapid development of multidisciplinary technologies such as machine learning, robotics, and cognitive science has greatly promoted the research and application of embodied intelligence. Existing literature mainly focuses on technical and methodological classifications of embodied intelligence. From a new perspective, this paper
 starts from the key problems involved in the research and application of embodied intelligence. By analyzing the general framework of embodied intelligence research, specific research ideas are proposed for the two kernel stages including embodied perception and execution, as well as embodied learning and evolution. Accordingly, detailed explanations of relevant technologies and research progress related to these key issues are provided. In addition, typical applications in mobile robots, bionic robots, and parallel robotics are exploited to illustrate how embodied intelligence inspires practical
 robot systems in terms of perception and understanding, control and decision-making, interaction and learning. Finally, the prospects of embodied intelligence is discussed, considering the importance and potential of virtual-real fusion data intelligence, foundation intelligence, and parallel intelligence. This paper is expected to provide new inspiration and ideas for scholars and practitioners in related fields.
-![](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI/blob/main/all_meathod.png)
+![](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI/blob/main/all_meathod.png#id=OQwIm&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none)
 ## 📚 Table of Contents
 
 - [Surveys & Perspectives](#surveys--perspectives)
-- [具身感知与执行](#具身感知与执行)  
- &emsp;[环境与任务感知](#环境与任务感知)  
- [行为规划与控制](#行为规划与控制)  
- [具身模拟与AIGC](#具身模拟与AIGC)   
-- [具身学习与进化](#具身学习与进化-)  
- [基础模型](#基础模型)  
- [增量学习](#增量学习)  
- [强化学习](#强化学习)    
+- [具身感知与执行](#具身感知与执行)
+ [环境与任务感知](#环境与任务感知)
+[行为规划与控制](#行为规划与控制)
+[具身模拟与AIGC](#具身模拟与AIGC)   
+- [具身学习与进化](#具身学习与进化-)
+[基础模型](#基础模型)
+[增量学习](#增量学习)
+[强化学习](#强化学习)    
 - [多智能体协同](#多智能体协同-)
-- [具身智能系统](#具身智能系统-)  
- [移动机器人](#移动机器人)  
- [仿生机器人](#仿生机器人)  
- [平行机器人](#平行机器人)  
- [特种机器人](#特种机器人)  
-## Surveys & Perspectives[🔝](#-table-of-contents)
+- [具身智能系统](#具身智能系统-)
+[移动机器人](#移动机器人)
+[仿生机器人](#仿生机器人)
+[平行机器人](#平行机器人)
+[特种机器人](#特种机器人)
+## Surveys & Perspectives[🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
 
 - [2]**Embodied intelligence weaves a better future. **Nature Machine Intelligence, 2020, 2(11): 663-664**.**Jin D, Zhang L.[[page]](https://www.nature.com/articles/s42256-020-00250-6)
 - [5]**Evolving embodied intelligence from materials to machines**. Nature Machine Intelligence, 2019, 1(1): 12-19.Howard D, Eiben A E, Kennedy D F, et al. [[page]](https://www.nature.com/articles/s42256-018-0009-9)
@@ -35,7 +35,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [12]**A survey of embodied AI: From simulators to research tasks. IEEE Transactions on Emerging Topics in Computational Intelligence**, 2022, 6(2): 230-244.Duan J, Yu S, Tan H L, et al.[[page]](https://ieeexplore.ieee.org/abstract/document/9687596/)
 - [13]**基于形态的具身智能研究: 历史回顾与前沿进展**. 自动化学报, 2023, 49(6):1131−1154.刘华平, 郭迪, 孙富春, 张新钰. [[page]](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c220564?viewType=HTML&utm_source=TrendMD&utm_medium=cpc&utm_campaign=Acta_Automatica_Sinica_TrendMD_0)
 - [69]**Evolutionary robotics: the Sussex approach. **Robotics and Autonomous Systems, 1997, 20(2-4): 205-224.Harvey I, Husbands P, Cliff D, et al.[[page]](https://www.sciencedirect.com/science/article/pii/S092188909600067X)
-## 具身感知与执行[🔝](#-table-of-contents)
+## 具身感知与执行[🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
 ### 环境与任务感知
 
 - [2]**Embodied intelligence weaves a better future. **Nature Machine Intelligence, 2020, 2(11): 663-664**.**Jin D, Zhang L.[[page]](https://www.nature.com/articles/s42256-020-00250-6)
@@ -109,7 +109,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [157]**Threedworld: A platform for interactive multi-modal physical simulation.** arXiv preprint arXiv:2007.04954, 2020.Gan C, Schwartz J, Alter S, et al.
 - [158]**The threedworld transport challenge: A visually guided task-and-motion planning benchmark towards physically realistic embodied AI.** In: Proceeding of the 2022 International Conference on Robotics and Automation, 2022: 8847-8854.Gan C, Zhou S, Schwartz J, et al. 
 - [159]**Habitat 2.0: Training home assistants to rearrange their habitat.** Advances in Neural Information Processing Systems, 2021, 34: 251-266.Szot A, Clegg A, Undersander E, et al. 
-## 具身学习与进化 [🔝](#-table-of-contents)
+## 具身学习与进化 [🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
 ### 基础模型
 
 - [6]The journey/DAO/TAO of embodied intelligence: From large models to foundation intelligence and parallel intelligence. IEEE/CAA Journal of Automatica Sinica, 2024, 11(6): 1313-1316.Shen T, Sun J, Kong S, et al.
@@ -139,6 +139,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [86]**Self-sustaining representation expansion for non-exemplar class-incremental learning. **In: Proceeding of the IEEE/CVF Conference on Computer Vision and Pattern Recognition，2022: 9296-9305.Zhu K, Zhai W, Cao Y, et al.
 ### 强化学习
 
+- [13]
 - [87]**An overview of reservoir computing: Theory, applications and implementations.** In: Proceedings of the 15th European Symposium on Artificial Neural Networks, 2007: 471-482.Schrauwen B, Verstraeten D, Van Campenhout J.
 - [88]**The role of feedback in morphological computation with compliant bodies.** Biological Cybernetics, 2012, 106: 595-613.Hauser H, Ijspeert A J, Füchslin R M, et al. 
 - [89]**Design and control of compliant tensegrity robots through simulation and hardware validation**. Journal of the Royal Society Interface, 2014, 11(98): 20140520.Caluwaerts K, Despraz J, Işçen A, et al.
@@ -153,7 +154,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [98]**Data-efficient co-adaptation of morphology and behaviour with deep reinforcement learning.** In: Proceeding of the Conference on Robot Learning, 2020: 854-869.Luck K S, Amor H B, Calandra R.
 - [99]**Data-efficient co-adaptation of morphology and behaviour with deep reinforcement learning**. ArXiv abs/1911.06832 (2019): n. pag.Luck K S, Amor H B, Calandra R.
 - [100]**Reinforcement learning for improving agent design.** Artificial Life, 2019, 25(4): 352-365.Ha D.
-## 多智能体协同 [🔝](#-table-of-contents)
+## 多智能体协同 [🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
 
 - [101]**Asynchronous methods for deep reinforcement learning**. In: Proceeding of the International Conference on Machine Learning, 2016: 1928-1937.Mnih V, Badia A P, Mirza M, et al.
 - [102]**A multi-objective deep reinforcement learning framework.** Engineering Applications of Artificial Intelligence, 2020, 96: 103915.Nguyen T T, Nguyen N D, Vamplew P, et al.
@@ -164,7 +165,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [107]**Multiagent learning using a variable learning rate**. Artificial Intelligence, 2002, 136(2): 215-250.Bowling M, Veloso M.
 - [108]**An algorithm for distributed reinforcement learning in cooperative multi-agent systems**. In: Proceeding of the Seventeenth International Conference on Machine Learning, 2000: 535-542.Lauer M, Riedmiller M A. 
 - [109]**Multi-agent reinforcement learning in sequential social dilemmas.** arXiv preprint arXiv:1702.03037, 2017.Leibo J Z, Zambaldi V, Lanctot M, et al.
-## 具身智能系统 [🔝](#-table-of-contents)
+## 具身智能系统 [🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
 ### 移动机器人
 
 - [110]**Robot operating system 2: Design, architecture, and uses in the wild**. Science Robotics, 2022, 7(66): eabm6074.Macenski S, Foote T, Gerkey B, et al.
