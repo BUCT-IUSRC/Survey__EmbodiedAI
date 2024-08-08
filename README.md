@@ -27,7 +27,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 &emsp;[仿生机器人](#仿生机器人)  
 &emsp;[平行机器人](#平行机器人)  
 &emsp;[特种机器人](#特种机器人)  
-## Surveys & Perspectives[🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
+## Surveys & Perspectives[🔝](#-table-of-contents)
 
 - [2]**Embodied intelligence weaves a better future**. Nature Machine Intelligence, 2020, 2(11): 663-664.Jin D, Zhang L.[[page]](https://www.nature.com/articles/s42256-020-00250-6)
 - [5]**Evolving embodied intelligence from materials to machines**. Nature Machine Intelligence, 2019, 1(1): 12-19.Howard D, Eiben A E, Kennedy D F, et al. [[page]](https://www.nature.com/articles/s42256-018-0009-9)
@@ -38,7 +38,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [12]**A survey of embodied AI: From simulators to research tasks.** IEEE Transactions on Emerging Topics in Computational Intelligence, 2022, 6(2): 230-244.Duan J, Yu S, Tan H L, et al.[[page]](https://ieeexplore.ieee.org/abstract/document/9687596/)
 - [13]**基于形态的具身智能研究: 历史回顾与前沿进展**. 自动化学报, 2023, 49(6):1131−1154.刘华平, 郭迪, 孙富春, 张新钰. [[page]](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c220564?viewType=HTML&utm_source=TrendMD&utm_medium=cpc&utm_campaign=Acta_Automatica_Sinica_TrendMD_0)
 - [69]**Evolutionary robotics: the Sussex approach**. Robotics and Autonomous Systems, 1997, 20(2-4): 205-224.Harvey I, Husbands P, Cliff D, et al.[[page]](https://www.sciencedirect.com/science/article/pii/S092188909600067X)
-## 具身感知与执行[🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
+## 具身感知与执行[🔝](#-table-of-contents)
 ### 环境与任务感知
 
 - [2]**Embodied intelligence weaves a better future**. Nature Machine Intelligence, 2020, 2(11): 663-664.Jin D, Zhang L.[[page]](https://www.nature.com/articles/s42256-020-00250-6)
@@ -112,7 +112,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [157]**Threedworld: A platform for interactive multi-modal physical simulation**. arXiv preprint arXiv:2007.04954, 2020.Gan C, Schwartz J, Alter S, et al.[[page]](https://arxiv.org/abs/2007.04954)
 - [158]**The threedworld transport challenge: A visually guided task-and-motion planning benchmark towards physically realistic embodied AI**. In: Proceeding of the 2022 International Conference on Robotics and Automation, 2022: 8847-8854.Gan C, Zhou S, Schwartz J, et al. [[page]](https://arxiv.org/abs/2103.14025)
 - [159]**Habitat 2.0: Training home assistants to rearrange their habitat**. Advances in Neural Information Processing Systems, 2021, 34: 251-266.Szot A, Clegg A, Undersander E, et al. [[page]](https://proceedings.neurips.cc/paper/2021/hash/021bbc7ee20b71134d53e20206bd6feb-Abstract.html)
-## 具身学习与进化 [🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
+## 具身学习与进化 [🔝](#-table-of-contents)
 ### 基础模型
 
 - [6]**The journey/DAO/TAO of embodied intelligence: From large models to foundation intelligence and parallel intelligence**. IEEE/CAA Journal of Automatica Sinica, 2024, 11(6): 1313-1316.Shen T, Sun J, Kong S, et al.[[page]](https://ieeexplore.ieee.org/abstract/document/10539310/)
@@ -156,7 +156,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [98]**Data-efficient co-adaptation of morphology and behaviour with deep reinforcement learning**. In: Proceeding of the Conference on Robot Learning, 2020: 854-869.Luck K S, Amor H B, Calandra R.[[page]](https://proceedings.mlr.press/v100/luck20a.html)
 - [99]**Data-efficient co-adaptation of morphology and behaviour with deep reinforcement learning**. ArXiv abs/1911.06832 (2019): n. pag.Luck K S, Amor H B, Calandra R.[[page]](https://proceedings.mlr.press/v100/luck20a.html)
 - [100]**Reinforcement learning for improving agent design.** Artificial Life, 2019, 25(4): 352-365.Ha D.[[page]](https://direct.mit.edu/artl/article-abstract/25/4/352/93262)
-## 多智能体协同 [🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
+## 多智能体协同 [🔝](#-table-of-contents)
 
 - [101]**Asynchronous methods for deep reinforcement learning**. In: Proceeding of the International Conference on Machine Learning, 2016: 1928-1937.Mnih V, Badia A P, Mirza M, et al.[[page]](https://proceedings.mlr.press/v48/mniha16.html?ref=.)
 - [102]**A multi-objective deep reinforcement learning framework**. Engineering Applications of Artificial Intelligence, 2020, 96: 103915.Nguyen T T, Nguyen N D, Vamplew P, et al.[[page]](https://www.sciencedirect.com/science/article/pii/S0952197620302475)
@@ -167,7 +167,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [107]**Multiagent learning using a variable learning rate**. Artificial Intelligence, 2002, 136(2): 215-250.Bowling M, Veloso M.[[page]](https://www.sciencedirect.com/science/article/pii/S0004370202001212)
 - [108]**An algorithm for distributed reinforcement learning in cooperative multi-agent systems**. In: Proceeding of the Seventeenth International Conference on Machine Learning, 2000: 535-542.Lauer M, Riedmiller M A. [[page]](https://dl.acm.org/doi/abs/10.5555/645529.658113)
 - [109]**Multi-agent reinforcement learning in sequential social dilemmas**. arXiv preprint arXiv:1702.03037, 2017.Leibo J Z, Zambaldi V, Lanctot M, et al.[[page]](https://arxiv.org/abs/1702.03037)
-## 具身智能系统 [🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
+## 具身智能系统 [🔝](#-table-of-contents)
 ### 移动机器人
 
 - [110]**Robot operating system 2: Design, architecture, and uses in the wild**. Science Robotics, 2022, 7(66): eabm6074.Macenski S, Foote T, Gerkey B, et al.[[page]](https://www.science.org/doi/abs/10.1126/scirobotics.abm6074)
