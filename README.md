@@ -9,7 +9,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 ## 📚 Table of Contents
 
 - [Surveys & Perspectives](#surveys--perspectives)
-- [具身感知与执行](#具身感知与执行-)  
+- [具身感知与执行](#具身感知与执行-)
  [环境与任务感知](#环境与任务感知)  
  [行为规划与控制](#行为规划与控制)  
  [具身模拟与AIGC](#具身模拟与AIGC)   
