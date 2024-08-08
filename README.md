@@ -26,7 +26,7 @@ robot systems in terms of perception and understanding, control and decision-mak
 [特种机器人](#特种机器人)
 ## Surveys & Perspectives[🔝](https://www.yuque.com/wangzhelingmengs/plgeu4/lulswz6zx6pfkg7g#-table-of-contents)
 
-- [2]**Embodied intelligence weaves a better future**.** **Nature Machine Intelligence, 2020, 2(11): 663-664**.**Jin D, Zhang L.[[page]](https://www.nature.com/articles/s42256-020-00250-6)
+- [2]**Embodied intelligence weaves a better future**. Nature Machine Intelligence, 2020, 2(11): 663-664**.**Jin D, Zhang L.[[page]](https://www.nature.com/articles/s42256-020-00250-6)
 - [5]**Evolving embodied intelligence from materials to machines**. Nature Machine Intelligence, 2019, 1(1): 12-19.Howard D, Eiben A E, Kennedy D F, et al. [[page]](https://www.nature.com/articles/s42256-018-0009-9)
 - [6]**The journey/DAO/TAO of embodied intelligence: From large models to foundation intelligence and parallel intelligence**. IEEE/CAA Journal of Automatica Sinica, 2024, 11(6): 1313-1316.[[page]](https://ieeexplore.ieee.org/abstract/document/10539310/)
 - [7]**Embodied intelligent driving: Concepts, methods, the state of the art and beyond**.** Chinese Journal of Intelligent Science and Technology**, 2024, 6(1): 17-32.Shen Tian-Yu, Li Zhi-Wei, Fan Li-Li, Zhang Ting-Zhen, Tang Dan-Dan, Zhou Mei-Hua, Liu Hua-Ping, Wang Kun-Feng.[[page]](https://www.infocomm-journal.com/znkx/EN/10.11959/j.issn.2096-6652.202404)
@@ -139,7 +139,6 @@ robot systems in terms of perception and understanding, control and decision-mak
 - [86]**Self-sustaining representation expansion for non-exemplar class-incremental learning**. In: Proceeding of the IEEE/CVF Conference on Computer Vision and Pattern Recognition，2022: 9296-9305.Zhu K, Zhai W, Cao Y, et al.
 ### 强化学习
 
-- [13]
 - [87]**An overview of reservoir computing: Theory, applications and implementations**. In: Proceedings of the 15th European Symposium on Artificial Neural Networks, 2007: 471-482.Schrauwen B, Verstraeten D, Van Campenhout J.
 - [88]**The role of feedback in morphological computation with compliant bodies**. Biological Cybernetics, 2012, 106: 595-613.Hauser H, Ijspeert A J, Füchslin R M, et al. 
 - [89]**Design and control of compliant tensegrity robots through simulation and hardware validation**. Journal of the Royal Society Interface, 2014, 11(98): 20140520.Caluwaerts K, Despraz J, Işçen A, et al.
