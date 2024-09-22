@@ -1,11 +1,12 @@
 # **Paper list for Embodied AI**
-#### We appreciate any useful suggestions for improvement of this paper list or survey from peers. Please raise issues or send an email to xxx. Thanks for your cooperation!
+#### We appreciate any useful suggestions for improvement of this paper list or survey from peers. Please raise issues or send an email to tianyu.shen@buct.edu.cn. Thanks for your cooperation!
 ## 🏠 About
+![标题.png](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI/blob/main/title.jpg)
 Embodied intelligence aims to create intelligent entities that can learn and evolve autonomously based on the interaction between machines and the physical world, by emphasizing the interaction among the brain, body, and
 environment. Currently, the rapid development of multidisciplinary technologies such as machine learning, robotics, and cognitive science has greatly promoted the research and application of embodied intelligence. Existing literature mainly focuses on technical and methodological classifications of embodied intelligence. From a new perspective, this paper
 starts from the key problems involved in the research and application of embodied intelligence. By analyzing the general framework of embodied intelligence research, specific research ideas are proposed for the two kernel stages including embodied perception and execution, as well as embodied learning and evolution. Accordingly, detailed explanations of relevant technologies and research progress related to these key issues are provided. In addition, typical applications in mobile robots, bionic robots, and parallel robotics are exploited to illustrate how embodied intelligence inspires practical
 robot systems in terms of perception and understanding, control and decision-making, interaction and learning. Finally, the prospects of embodied intelligence is discussed, considering the importance and potential of virtual-real fusion data intelligence, foundation intelligence, and parallel intelligence. This paper is expected to provide new inspiration and ideas for scholars and practitioners in related fields.
-
+![结构图.png](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI/blob/main/picture1.jpg)
 ## 📚 Table of Contents
 
 - [Surveys & Perspectives](#surveys--perspectives)
